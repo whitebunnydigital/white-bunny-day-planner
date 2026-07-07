@@ -1,6 +1,6 @@
 # White Bunny Morning
 
-A calm, iOS-style morning ritual app. It walks you through the Rapid Planning Method (RPM)
+A calm, iOS-style morning ritual app. It walks you through a Rapid Morning Planning Method
 across Health, Work and Life — one question at a time — then hands back a tickable plan and
 a shareable card. Type or speak your answers. Three warm themes (Latte / Sage / Blush).
 
